@@ -1,0 +1,58 @@
+{
+    "club_name": "HORIZON Research Club",
+    "tagline": "Empowering students, building skills, and creating futures.",
+    "about_us": "HORIZON is not just another student club; it is a research-focused initiative aimed at helping students develop critical skills, enhance their resumes, and gain real-world experience that sets them apart in their careers. Our mission is to bridge the gap between academic learning and industry expectations, preparing students to excel in their chosen fields. We are dedicated to fostering an environment where knowledge, innovation, and growth go hand-in-hand, providing our members with a foundation to succeed and flourish in the competitive job market.",
+    "vision": "To empower students through skill-building, practical experience, and personalized career guidance, enabling them to grow academically and professionally and to become the best version of themselves.",
+    "focus_areas": {
+      "skill_development": "We offer hands-on workshops and training sessions in fields like Artificial Intelligence, Backend Development, Frontend Design, and much more. Our activities are carefully curated to provide students with valuable, applicable skills that are directly relevant to current job market trends.",
+      "research_innovation": "HORIZON encourages its members to delve into research, with mentorship and guidance available to support students interested in publishing papers or developing unique projects that stand out on their resumes.",
+      "career_readiness": "Through resume-building workshops, interview preparation sessions, and networking opportunities, HORIZON focuses on enhancing student profiles to make them appealing to recruiters and employers."
+    },
+    "event_spotlight": {
+      "name": "Reality Check",
+      "description": "Reality Check is HORIZON’s latest event, designed to address the challenges and pressures that students face in navigating their academic and career journeys. This event is aimed at providing students with practical support and guidance in overcoming these struggles through a unique, month-long series of workshops and activities.",
+      "date": "November 11",
+      "highlights": [
+        {
+          "title": "Understanding Student Challenges",
+          "description": "Reality Check opens with sessions focusing on the difficulties students often encounter in their academic and career paths. This includes insights into industry demands, time management, and the skills gap that many students face."
+        },
+        {
+          "title": "Workshop Series",
+          "description": "Over the course of a month, students will have the opportunity to engage in hands-on workshops across various domains, such as:",
+          "workshops": [
+            {
+              "name": "Artificial Intelligence",
+              "description": "Delve into machine learning, data science, and neural networks, with practical projects and tutorials."
+            },
+            {
+              "name": "Backend Development",
+              "description": "Learn about server-side programming, databases, API integration, and more."
+            },
+            {
+              "name": "Frontend Development",
+              "description": "Understand the foundations of web design, responsive layouts, UI/UX, and the latest front-end frameworks."
+            }
+          ]
+        },
+        {
+          "title": "Personalized Mentorship",
+          "description": "Throughout the event, students will have access to mentors who will provide guidance, support, and personalized advice to help them thrive in their areas of interest."
+        },
+        {
+          "title": "Resume-Building & Career Counseling",
+          "description": "Reality Check includes sessions dedicated to resume optimization, interview preparation, and general career counseling, ensuring students have the tools needed to present themselves confidently to potential employers."
+        }
+      ]
+    },
+    "why_join": {
+      "benefits": [
+        "Enhanced Skill Sets: Students gain hands-on experience with technologies and tools that are in high demand in today’s job market.",
+        "Improved Resume Quality: Through personalized guidance, students learn how to effectively showcase their skills and projects on their resumes.",
+        "Access to a Community of Learners and Innovators: HORIZON fosters a supportive community that values growth, collaboration, and the pursuit of knowledge.",
+        "Career-Ready Confidence: With real-world experience and practical insights, students leave Reality Check equipped to face their future careers with confidence."
+      ]
+    },
+    "join_us": "If you are ready to take your skills to the next level, improve your resume, and connect with a network of driven, like-minded individuals, HORIZON is here for you. Come, be a part of Reality Check and embark on a journey of self-improvement, skill development, and career readiness. Together, we can shape the future."
+  }
+  
